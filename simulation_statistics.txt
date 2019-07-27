@@ -1,0 +1,6513 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 0
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 0
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 1
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 2
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 3
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 4
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 5
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 6
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 7
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 8
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 9
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 10
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 11
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 12
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 13
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 14
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.99
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.00
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 15
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 16
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 17
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 18
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 19
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 20
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 21
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 22
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 23
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 24
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 25
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 26
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 27
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 28
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 29
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 30
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.97
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.01
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 31
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 32
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 33
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 34
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 35
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 36
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 37
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 38
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 39
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 40
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 41
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 42
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 43
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 44
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 45
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 46
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.93
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.03
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 47
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 48
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 49
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 50
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 51
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 52
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 53
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 54
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 55
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 56
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 57
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 58
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 59
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 60
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 61
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 62
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.89
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 63
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 64
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 65
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 66
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 67
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 68
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 69
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 70
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 71
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 72
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 73
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 74
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 75
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 76
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 77
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 78
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.85
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.11
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 79
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 80
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 81
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 82
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 83
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 84
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 85
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 86
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 87
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 88
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 89
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 90
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 91
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 92
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 93
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 94
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.80
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.15
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 95
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 96
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 97
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 98
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 99
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 100
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 101
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 102
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 103
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 104
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 105
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 106
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 107
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 108
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 109
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 110
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.74
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.20
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 111
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 112
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 113
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 114
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 115
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 116
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 117
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 118
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 119
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 120
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 121
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 122
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 123
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 124
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 125
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 126
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.68
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.26
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 127
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 128
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 129
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 130
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 131
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 132
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 133
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 134
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 135
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 136
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 137
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 138
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 139
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 140
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 141
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 142
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.62
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.32
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 143
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 144
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 145
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 146
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 147
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 148
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 149
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 150
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 151
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 152
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 153
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 154
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 155
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 156
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 157
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 158
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.56
+	percentage_of_infected_float = 0.06
+	percentage_of_recovered_float = 0.38
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 159
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 160
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 161
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 162
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 163
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 164
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 165
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 166
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 167
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 168
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 169
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 170
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 171
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 172
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 173
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 174
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.51
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.44
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 175
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 176
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 177
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 178
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 179
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 180
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 181
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 182
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 183
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 184
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 185
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 186
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 187
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 188
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 189
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 190
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.46
+	percentage_of_infected_float = 0.05
+	percentage_of_recovered_float = 0.49
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 191
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 192
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 193
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 194
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 195
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 196
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 197
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 198
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 199
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 200
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 201
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 202
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 203
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 204
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 205
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 206
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.42
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.54
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 207
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 208
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 209
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 210
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 211
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 212
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 213
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 214
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 215
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 216
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 217
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 218
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 219
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 220
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 221
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 222
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.38
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.58
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 223
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 224
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 225
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 226
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 227
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 228
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 229
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 230
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 231
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 232
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 233
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 234
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 235
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 236
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 237
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 238
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.34
+	percentage_of_infected_float = 0.04
+	percentage_of_recovered_float = 0.62
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 239
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 240
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 241
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 242
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 243
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 244
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 245
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 246
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 247
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 248
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 249
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 250
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 251
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 252
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 253
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 254
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.31
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.66
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 255
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 256
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 257
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 258
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 259
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 260
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 261
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 262
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 263
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 264
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 265
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 266
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 267
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 268
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 269
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 270
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.28
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.69
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 271
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 272
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 273
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 274
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 275
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 276
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 277
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 278
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 279
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 280
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 281
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 282
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 283
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 284
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 285
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 286
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.26
+	percentage_of_infected_float = 0.03
+	percentage_of_recovered_float = 0.72
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 287
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 288
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 289
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 290
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 291
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 292
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 293
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 294
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 295
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 296
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 297
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 298
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 299
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 300
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 301
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 302
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.24
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.74
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 303
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 304
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 305
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 306
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 307
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 308
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 309
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 310
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 311
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 312
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 313
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 314
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 315
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 316
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 317
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 318
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.22
+	percentage_of_infected_float = 0.02
+	percentage_of_recovered_float = 0.76
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 319
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 320
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 321
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 322
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 323
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 324
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 325
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 326
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 327
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 328
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 329
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 330
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 331
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 332
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 333
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 334
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.21
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.78
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 335
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 336
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 337
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 338
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 339
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 340
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 341
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 342
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 343
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 344
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 345
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 346
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 347
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 348
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 349
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 350
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.19
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.79
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 351
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 352
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 353
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 354
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 355
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 356
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 357
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 358
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 359
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 360
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 361
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 362
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 363
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 364
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 365
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 366
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.18
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.81
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 367
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 368
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 369
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 370
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 371
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 372
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 373
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 374
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 375
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 376
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 377
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 378
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 379
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 380
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 381
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 382
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.82
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 383
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 384
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 385
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 386
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 387
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 388
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 389
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 390
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 391
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 392
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 393
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 394
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 395
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 396
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 397
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 398
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.17
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 399
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 400
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 401
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 402
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 403
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 404
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 405
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 406
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 407
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 408
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 409
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 410
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 411
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 412
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 413
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 414
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.01
+	percentage_of_recovered_float = 0.83
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 415
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 416
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 417
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 418
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 419
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 420
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 421
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 422
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 423
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 424
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 425
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 426
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 427
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 428
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 429
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 430
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.16
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 431
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 432
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 433
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 434
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 435
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 436
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 437
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 438
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 439
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 440
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 441
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 442
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 443
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 444
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 445
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 446
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.84
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 447
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 448
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 449
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 450
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 451
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 452
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 453
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 454
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 455
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 456
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 457
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 458
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 459
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 460
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 461
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 462
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 463
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 464
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 465
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 466
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 467
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 468
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 469
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 470
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 471
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 472
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 473
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 474
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 475
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 476
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 477
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 478
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 479
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 480
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 481
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 482
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 483
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 484
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 485
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 486
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 487
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 488
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 489
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 490
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 491
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 492
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 493
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 494
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 495
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 496
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 497
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 498
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~day - 499
+
+Population Status:
+	Average Age = 44.46
+	percentage_of_male_float = 0.47
+	percentage_of_vaccination_float = 0.03
+
+Disease Status:
+	percentage_of_susceptible_float = 0.15
+	percentage_of_infected_float = 0.00
+	percentage_of_recovered_float = 0.85
+
